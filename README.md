@@ -131,6 +131,4 @@ interface IPaginate<T> {
 }
 ```
 
-````
-This documentation provides a basic guide to installing and using the typeorm-paginate-nestjs package in a NestJS application with TypeORM. Adjust the code as needed to fit your specific use case. ```
-````
+This documentation provides a basic guide to installing and using the `typeorm-paginate-nestjs` package in a NestJS application with TypeORM. Adjust the code as needed to fit your specific use case.
