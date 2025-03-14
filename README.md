@@ -1,4 +1,4 @@
-# typeorm-paginate-nestjs
+# nestjs-pagination
 
 A pagination utility for NestJS applications using TypeORM.
 
